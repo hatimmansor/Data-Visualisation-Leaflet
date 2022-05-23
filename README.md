@@ -22,9 +22,11 @@ In this project I have visualised earthquake data using Python Leaflet.
    <th style="text-align:center" colspan="2">Earthquakes Magnitude</td>
   </tr>
     <tr>
-    <td colspan="2"><img src="https://user-images.githubusercontent.com/24882457/155929465-0278f443-0bae-4737-8f4f-872c67a95c74.PNG" width=1000 height=700></td>
+    <td colspan="2"><img src="https://user-images.githubusercontent.com/24882457/169722069-0d1b5130-e12c-4921-a43e-d3581a44c43c.png" width=1000 height=700></td>
   </tr>
 </table>
+
+
 
 
 # Contact:
